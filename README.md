@@ -16,7 +16,7 @@ The files in this repository were produced by the network depicted below.
 
 ### Feature Presentation 
 
-Access and download the main [Powerpoint]() file for review.
+Access and download the main [Powerpoint](https://github.com/isejy07/Project3-OffSec-Final/blob/main/Presentation/Team_Offensive_Final_Project_Presentation.pptx) file for review.
 
 ### Supporting Documents 
 
