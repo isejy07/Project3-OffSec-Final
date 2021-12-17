@@ -9,10 +9,10 @@ The files in this repository were produced by the network depicted below.
 
 ### Contents of Presentation
 - Use of NMAP to expose network IPs and vulnerable ports
-- Launch a brute force attack in Kali Linux using Hydra (password cracker with wordlist)
-- Craft a malicious executable with Msfvenom and attack the target using Metasploit (Meterpreter session)
-- Identify components of the attack using a SIEM (Kibana Reporting)
-- Propose alerts and hardening strategies to respond to potential future attacks
+- Launch a brute force attack in Kali Linux using WPScan (penetration test on WordPress publishing software)
+- 
+- 
+- 
 
 ### Feature Presentation 
 
