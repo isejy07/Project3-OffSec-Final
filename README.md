@@ -5,7 +5,7 @@ Attack, Defense &amp; Analysis of a Vulnerable Network
 
 The files in this repository were produced by the network depicted below.
 
-![Lab Services Diagram](offensive_presentation.drawio.png)
+![Lab Services Diagram](offensive_presentation.png)
 
 ### Contents of Presentation
 - Use of NMAP to expose network IPs and vulnerable ports
