@@ -21,3 +21,5 @@ Access and download the main [Powerpoint]() file for review.
 ### Supporting Documents 
 
 Access additional materials [here](https://github.com/isejy07/Project3-OffSec-Final/tree/main/Documentation).
+
+Presentation Authors: E. Yarnell, L. Joe, E. Idowu, J. Gaitan, A. Parson
