@@ -17,3 +17,7 @@ The files in this repository were produced by the network depicted below.
 ### Feature Presentation 
 
 Access and download the main [Powerpoint](https://github.com/isejy07/Project2-Red-Blue/tree/main/Presentation/Proj2-RedVBlue.pptx) file for review.
+
+### Supporting Documents 
+
+Access additional materials [here](https://github.com/isejy07/Project3-OffSec-Final/tree/main/Documentation)
