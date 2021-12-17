@@ -1,11 +1,11 @@
 # Project3-OffSec-Final
 Attack, Defense &amp; Analysis of a Vulnerable Network
 
-## Attack / Defense / Monitoring / Mitigation
+## Cloud Virtualization: Dream Within A Dream Within A Dream
 
 The files in this repository were produced by the network depicted below.
 
-![Lab Services Diagram](Diagrams/azure_lab_services2.png)
+![Lab Services Diagram](offensive_presentation.drawio.png)
 
 ### Contents of Presentation
 - Use of NMAP to expose network IPs and vulnerable ports
