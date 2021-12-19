@@ -10,7 +10,7 @@ The files in this repository were produced by the network depicted below.
 ### Contents of Offensive Security Presentation
 - Reveal critical weaknesses in a target host computer
 - Use of NMAP to expose network IPs and vulnerable ports
-- Launch a brute force attack in Kali Linux using WPScan (penetration test on WordPress publishing software)
+- Launch a brute force attack in Kali Linux using WPScan (Penetration test on WordPress publishing software)
 - Propose additional stealth methods to avoid further detection
 
 ### Feature Presentation 
