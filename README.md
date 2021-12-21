@@ -1,4 +1,4 @@
-# Project3-OffSec-Final
+# Project 3: Offensive Security Final Engagement
 Attack, Defense &amp; Analysis of a Vulnerable Network
 
 ## Cloud Virtualization: Dream Within A Dream Within A Dream
